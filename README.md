@@ -5,6 +5,7 @@
 - Download [Petra Wallet](https://chromewebstore.google.com/detail/petra-aptos-wallet/ejjladinnckdgjemekebdpeokbikhfci?hl=en) & Create Aptos Account Then Get [Faucet
 ](https://docs.shelby.xyz/tools/cli#fund-account) & Also Copy The Private Kay on Notepad
 - And Add [Shelby RPC](https://docs.shelby.xyz/tools/wallets/petra-setup#adding-shelby-devnet-network)
+- Get [API Key](https://docs.shelby.xyz/sdks/typescript/acquire-api-keys#acquiring-api-keys) 
 ---
 
 **1st Step**
