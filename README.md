@@ -4,12 +4,14 @@
 
 - Download [Petra Wallet](https://chromewebstore.google.com/detail/petra-aptos-wallet/ejjladinnckdgjemekebdpeokbikhfci?hl=en) & Create Aptos Account Then Get [Faucet
 ](https://docs.shelby.xyz/tools/cli#fund-account) & Also Copy The Private Kay on Notepad
+- And Add [Shelby RPC](https://docs.shelby.xyz/tools/wallets/petra-setup#adding-shelby-devnet-network)
 ---
 
 **1st Step**
 
 - Open Windows PowerShell not in administrator 
 
+**Then**
 **Installation**
 
 Install the Aptos CLI -
